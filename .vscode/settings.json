@@ -1,0 +1,11 @@
+{
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
+  "extensions.ignoreRecommendations": false,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor",
+  },
+  "workbench.startupEditor": "readme"
+}

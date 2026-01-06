@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "cweijan.vscode-office",
+    "GitHub.vscode-pull-request-github",
+    "PKief.material-icon-theme",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "sandcastle.vscode-open",
+    "tomoki1207.pdf",
+
+    "Angular.ng-template",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "WebNative.webnative",
+  ],
+  "unwantedRecommendations": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.vscode-github-actions",
+  ]
+}
